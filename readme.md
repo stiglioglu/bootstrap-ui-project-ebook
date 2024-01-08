@@ -1,7 +1,8 @@
 # Ebook Website
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
-<a href="https://bootstrap-ui-project-ebook.vercel.app/index.html">Visit Demo Page</a>
+<a href="https://bootstrap-ui-project-ebook.vercel.app/index.html" target="_blank">Visit Demo Page</a>
+
 <img src="./images/screen.png"  />
 
 ## Features
